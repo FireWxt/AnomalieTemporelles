@@ -1,5 +1,6 @@
 package fr.agence.temporelles;
 
-public enum Dangerosite {
+public enum Dangerosite 
+{
 	BAS, MOYEN, ELEVE; 
 }
