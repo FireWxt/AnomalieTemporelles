@@ -12,7 +12,9 @@ public class AgentInfiltre extends AgentTemporel implements ExpertEnDiscretion {
 	}
 
 	@Override
-	public void seFondreDansLeDecor() {
+	public void seFondreDansLeDécor() {
 		System.out.println(nom + " se fond parfaitement dans l'epoque cible.");
+		
 	}
 }
+
