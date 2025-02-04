@@ -4,9 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		AgentScientifique agent1 = new AgentScientifique("Dr. Time", 5, 2022);
-        AgentInfiltre agent2 = new AgentInfiltre("Shadow", 7, 2018);
-        AgentTechnologique agent3 = new AgentTechnologique("TechnoMage", 6, 2020);
+		AgentScientifique agent1 = new AgentScientifique("Baba", 5, 2022);
+        AgentInfiltre agent2 = new AgentInfiltre("Mathis", 7, 2018);
+        AgentTechnologique agent3 = new AgentTechnologique("Andy", 6, 2020);
 
         Anomalie anomalie1 = new Anomalie("Dérèglement du continuum", 1890, Dangerosite.ELEVE);
         Anomalie anomalie2 = new Anomalie("Présence d'un artefact futuriste", 1500, Dangerosite.MOYEN);
